@@ -5,3 +5,4 @@ This is a sample Python code for K-Means clustering of sample text data with PCA
 
 For visualization, Matplotlib was used. For intrinsic evluation of clusters, the Silhouette scores from Scikit Learn is calculated.
 
+Sample visualizations are uploaded in this repo.
